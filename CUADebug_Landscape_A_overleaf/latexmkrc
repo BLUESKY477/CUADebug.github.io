@@ -1,0 +1,4 @@
+# This poster needs LuaLaTeX (fontspec + OpenType fonts).
+# Overleaf: also set Menu -> Compiler -> LuaLaTeX.
+$pdf_mode = 4;
+$postscript_mode = $dvi_mode = 0;
